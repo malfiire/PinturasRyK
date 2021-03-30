@@ -6,5 +6,5 @@ _Modifica esta plantilla para dar visión a tus productos!_
   <li>Servidor local como XAMPP que trabaje con el lenguaje PHP.</li>
 </ul>
 
-### Inicio
+### Inicio🪂
 Sientete libre de modificar lo que quieras!
