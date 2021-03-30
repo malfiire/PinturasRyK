@@ -11,7 +11,12 @@ Sientete libre de modificar lo que quieras!
 
 
 ### Proyecto✨
-![index](https://user-images.githubusercontent.com/56301342/113043478-c91d5300-919c-11eb-860f-6a58df9e1b2c.PNG)
+![index](https://user-images.githubusercontent.com/56301342/113045536-43e76d80-919f-11eb-9487-14b20fea58ac.PNG)
 
+![trabajos](https://user-images.githubusercontent.com/56301342/113045541-45189a80-919f-11eb-87c7-5dd8082ea4d5.PNG)
 
-![movil](https://user-images.githubusercontent.com/56301342/113044051-8a3bcd00-919d-11eb-92f9-8c5d2685401e.PNG)
+![contacto](https://user-images.githubusercontent.com/56301342/113045543-45189a80-919f-11eb-82a2-abb2bcf53b07.PNG)
+
+![footer](https://user-images.githubusercontent.com/56301342/113045544-45b13100-919f-11eb-887d-a209c9c76914.PNG)
+
+![servicios](https://user-images.githubusercontent.com/56301342/113045539-45189a80-919f-11eb-9022-cbe56af9ee93.PNG)
