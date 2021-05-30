@@ -7,7 +7,7 @@ _Modifica esta plantilla para dar visión a tus productos!_
 </ul>
 
 ### Inicio🪂
-Sientete libre de modificar lo que quieras!
+Siéntete libre de modificar lo que quieras!
 
 
 ### Proyecto✨
